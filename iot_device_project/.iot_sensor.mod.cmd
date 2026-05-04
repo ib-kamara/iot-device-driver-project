@@ -1,0 +1,1 @@
+savedcmd_/workspaces/iot-device-driver-project/iot_device_project/iot_sensor.mod := printf '%s\n'   iot_sensor.o | awk '!x[$$0]++ { print("/workspaces/iot-device-driver-project/iot_device_project/"$$0) }' > /workspaces/iot-device-driver-project/iot_device_project/iot_sensor.mod

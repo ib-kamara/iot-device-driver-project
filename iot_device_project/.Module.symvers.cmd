@@ -1,0 +1,1 @@
+savedcmd_/workspaces/iot-device-driver-project/iot_device_project/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /workspaces/iot-device-driver-project/iot_device_project/Module.symvers -T /workspaces/iot-device-driver-project/iot_device_project/modules.order -i Module.symvers -e 

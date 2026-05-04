@@ -1,0 +1,1 @@
+savedcmd_/workspaces/iot-device-driver-project/iot_device_project/modules.order := {   echo /workspaces/iot-device-driver-project/iot_device_project/iot_sensor.o; :; } > /workspaces/iot-device-driver-project/iot_device_project/modules.order
